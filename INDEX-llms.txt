@@ -1,0 +1,337 @@
+# Cielo E-commerce Documentation
+
+> Documentation for Cielo E-commerce
+
+## Docs: API E-COMMERCE CIELO
+- [Sobre a API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/sobre-api-ecommerce.md): Venda mais online com a solução completa de pagamento da Cielo. Mais segurança, performance e conversão no seu e-commerce
+- [Como começar a usar a API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/onbording-api-ecommerce.md): Veja como contratar e começar a usar a API E-commerce para vender online
+
+## Docs: Boas práticas para vendas online
+- [Como melhorar a performance de aprovação das suas transações](https://docs.cielo.com.br/ecommerce-cielo/docs/como-melhorar-a-performance-de-aprovacao-das-suas-transacoes.md): Saiba como e quando usar cada funcionalidade da API E-commerce para aumentar sua taxa de aprovação
+- [Prevenção a fraudes e chargebacks](https://docs.cielo.com.br/ecommerce-cielo/docs/prevencao.md)
+  - [PCI DSS](https://docs.cielo.com.br/ecommerce-cielo/docs/pci-dss-cielo.md)
+  - [Programa de monitoria de chargebacks e fraudes das bandeiras](https://docs.cielo.com.br/ecommerce-cielo/docs/programa-de-monitoria.md)
+
+## Docs: SITE CIELO
+- [Credenciamento no site Cielo - contrate as nossas soluções](https://docs.cielo.com.br/ecommerce-cielo/docs/credenciamento-no-site-cielo.md)
+- [Site Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/como-usar-o-site-cielo.md)
+  - [Como acessar o site Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/acesso-ao-site-cielo.md)
+  - [Como selecionar o estabelecimento (EC)](https://docs.cielo.com.br/ecommerce-cielo/docs/como-selecionar-o-estabelecimento-ec.md)
+  - [Configurações de cadastro](https://docs.cielo.com.br/ecommerce-cielo/docs/configurações-de-cadastro.md)
+    - [Dados de cadastro](https://docs.cielo.com.br/ecommerce-cielo/docs/dados-de-cadastro.md)
+    - [Dados da conta](https://docs.cielo.com.br/ecommerce-cielo/docs/dados-da-conta.md)
+  - [Gestão de acessos](https://docs.cielo.com.br/ecommerce-cielo/docs/gestao-de-acessos.md)
+    - [Adicionar usuário](https://docs.cielo.com.br/ecommerce-cielo/docs/adicionar-usuario.md)
+    - [Gerenciar usuários](https://docs.cielo.com.br/ecommerce-cielo/docs/gerenciar-usuarios.md)
+    - [Perfil personalizado](https://docs.cielo.com.br/ecommerce-cielo/docs/perfil-personalizado.md)
+  - Vendas
+    - [Minhas vendas](https://docs.cielo.com.br/ecommerce-cielo/docs/minhas-vendas.md)
+    - [Cancelamento de vendas](https://docs.cielo.com.br/ecommerce-cielo/docs/cancelamento-de-vendas.md)
+    - [Carta de cancelamento](https://docs.cielo.com.br/ecommerce-cielo/docs/carta-de-cancelamento.md)
+    - [DIRF/EFD-REINF e Informe de Rendimentos](https://docs.cielo.com.br/ecommerce-cielo/docs/dirfefd-reinf-e-informe-de-rendimentos.md)
+    - [Simulador de vendas](https://docs.cielo.com.br/ecommerce-cielo/docs/simulador-de-vendas.md)
+  - [Recebíveis](https://docs.cielo.com.br/ecommerce-cielo/docs/recebíveis.md)
+  - Antecipação
+    - [Antecipar recebíveis](https://docs.cielo.com.br/ecommerce-cielo/docs/antecipar-recebíveis.md)
+  - Pix
+    - [Habilitar o Pix na Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/como-habilitar-pix.md)
+    - [Configurações Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/configurações-pix.md)
+    - [Extrato Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/extrato-pix.md)
+    - [Gestão da conta Pix na Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/conta-pix-cielo.md)
+  - [Transações](https://docs.cielo.com.br/ecommerce-cielo/docs/transacoes.md)
+    - [Consultar transações](https://docs.cielo.com.br/ecommerce-cielo/docs/consultar-transacoes.md)
+    - [Capturar transações](https://docs.cielo.com.br/ecommerce-cielo/docs/capturar-transacoes.md)
+    - [Cancelar transações](https://docs.cielo.com.br/ecommerce-cielo/docs/cancelar-transacoes.md)
+    - [Estorno de transações](https://docs.cielo.com.br/ecommerce-cielo/docs/estorno-de-transacoes.md)
+    - [Devolver transações Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/devolver-transacoes-pix.md)
+    - [Transações boleto](https://docs.cielo.com.br/ecommerce-cielo/docs/transacoes-boleto.md)
+  - [Central de relatórios ](https://docs.cielo.com.br/ecommerce-cielo/docs/central-de-relatorios.md)
+  - [Gestão de recorrência](https://docs.cielo.com.br/ecommerce-cielo/docs/gestao-de-recorrencia.md)
+    - [Editar cobrança recorrente](https://docs.cielo.com.br/ecommerce-cielo/docs/editar-recorrencia.md)
+    - [Ativar cobrança recorrente](https://docs.cielo.com.br/ecommerce-cielo/docs/ativar-recorrencia.md)
+    - [Desativar cobrança recorrente](https://docs.cielo.com.br/ecommerce-cielo/docs/desativar-recorrencia.md)
+  - [Contestar chargeback pelo site Cielo ou API](https://docs.cielo.com.br/ecommerce-cielo/docs/contestação-de-chargeback.md)
+  - [Gestão API E-commerce](https://docs.cielo.com.br/ecommerce-cielo/docs/gestão-api-e-commerce.md)
+    - [Configurações](https://docs.cielo.com.br/ecommerce-cielo/docs/configuracoes.md)
+      - [Configurar IPs confiáveis no site Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/configuração-de-ips.md)
+      - [URL de notificações](https://docs.cielo.com.br/ecommerce-cielo/docs/url-de-notificacoes.md)
+      - [Revogar e criar credenciais no site Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/revogar-e-criar-credenciais-no-site-cielo.md): Obtenha as credenciais para a API E-commerce Cielo (transacional e consultas)
+    - [Carteiras digitais](https://docs.cielo.com.br/ecommerce-cielo/docs/habilitar-desabilitar-e-gerenciar-carteiras-digitais.md): Veja como habilitar e configurar carteiras digitais.
+    - [Gerenciar microsserviços](https://docs.cielo.com.br/ecommerce-cielo/docs/como-habilitar-microsserviços.md): Veja como habilitar e configurar os microsserviços adicionais oferecidas pela Cielo
+    - [Histórico de ações](https://docs.cielo.com.br/ecommerce-cielo/docs/historico-de-acoes.md)
+
+## Docs: Certificados e segurança
+- [O que é o certificado TLS/SSL?](https://docs.cielo.com.br/ecommerce-cielo/docs/certificado-ssl.md)
+- [Como instalar o certificado no servidor da loja?](https://docs.cielo.com.br/ecommerce-cielo/docs/instalar-certificado.md)
+
+## Docs: ANTES DA AUTORIZAÇÃO
+- [Consulta BIN](https://docs.cielo.com.br/ecommerce-cielo/docs/consulta-bin.md): Retorna informações do cartão.
+- [Zero Auth](https://docs.cielo.com.br/ecommerce-cielo/docs/zero-auth.md): Verifica se o cartão está válido para autorização.
+- [Velocity](https://docs.cielo.com.br/ecommerce-cielo/docs/velocity.md): Cria um conjunto de regras para evitar fraudes por tentativas repetitivas na mesma transação.
+
+## Docs: AUTENTICAÇÃO 3DS
+- [O que é a autenticação 3DS?](https://docs.cielo.com.br/ecommerce-cielo/docs/3ds-sobre.md)
+  - [Como funciona a autorização com autenticação via 3DS?](https://docs.cielo.com.br/ecommerce-cielo/docs/autorização-com-autenticacao-3ds.md)
+  - [Autorização com autenticação](https://docs.cielo.com.br/ecommerce-cielo/docs/autorizacao-autenticacao.md)
+  - [Bandeiras disponíveis](https://docs.cielo.com.br/ecommerce-cielo/docs/bandeiras-disponiveis.md)
+- [Data Only – somente notificação](https://docs.cielo.com.br/ecommerce-cielo/docs/data-only.md)
+  - [Autorização para transações Data Only](https://docs.cielo.com.br/ecommerce-cielo/docs/data-only-autorizacao.md)
+- [Integração do script de autenticação](https://docs.cielo.com.br/ecommerce-cielo/docs/script-autenticacao.md)
+  - [2. Criar o token de acesso](https://docs.cielo.com.br/ecommerce-cielo/docs/token-acesso.md)
+  - [3. Mapear as classes](https://docs.cielo.com.br/ecommerce-cielo/docs/mapeando-classes.md)
+  - [4. Implementar o script](https://docs.cielo.com.br/ecommerce-cielo/docs/implementando-script.md)
+  - [5. Implementar chamada ao evento de autenticação](https://docs.cielo.com.br/ecommerce-cielo/docs/chamada-evento-autenticacao.md)
+- [Cartões de teste para a autenticação 3DS](https://docs.cielo.com.br/ecommerce-cielo/docs/3ds-cartoes-teste.md)
+- [Códigos de retorno 3DS](https://docs.cielo.com.br/ecommerce-cielo/docs/codigos-retorno-3ds.md)
+- [Tabela de ECI](https://docs.cielo.com.br/ecommerce-cielo/docs/tabela-de-eci.md)
+
+## Docs: MEIOS DE PAGAMENTO
+- [Criando transações](https://docs.cielo.com.br/ecommerce-cielo/docs/criando-transacoes.md): Geral sobre criar transações
+- Cartões de crédito e débito
+  - [Cartão de débito](https://docs.cielo.com.br/ecommerce-cielo/docs/cartão-de-debito.md): Esse meio de pagamento é liberado automaticamente junto a afiliação da Cielo.
+  - [Cartão de crédito](https://docs.cielo.com.br/ecommerce-cielo/docs/cartao-credito.md)
+    - [Companhias aéreas e agências de turismo](https://docs.cielo.com.br/ecommerce-cielo/docs/companhias-aereas.md): É possível cobrar pela taxa de embarque separada do valor da passagem
+  - [Soft Descriptor](https://docs.cielo.com.br/ecommerce-cielo/docs/soft-descriptor.md)
+  - [Card On File](https://docs.cielo.com.br/ecommerce-cielo/docs/card-on-file.md)
+  - [Garantia de cancelamento](https://docs.cielo.com.br/ecommerce-cielo/docs/garantia-de-cancelamento.md): Evite a duplicidade de transações com a garantia do cancelamento de transações não finalizadas
+- [Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/pix.md)
+  - [Como funciona o pagamento por Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/como-funciona-o-pagamento-por-pix.md)
+  - [Devolução Pix](https://docs.cielo.com.br/ecommerce-cielo/docs/devolucao-pix.md)
+  - [Nova integração do Pix na Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/pix-cielo.md)
+- Voucher
+  - [Alelo](https://docs.cielo.com.br/ecommerce-cielo/docs/alelo.md)
+  - [Cartão multibenefícios](https://docs.cielo.com.br/ecommerce-cielo/docs/cartao-multibeneficios.md)
+- [E-wallets](https://docs.cielo.com.br/ecommerce-cielo/docs/e-wallets.md)
+  - [Apple Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/apple-pay.md)
+    - [Configuração do Merchant Identifier](https://docs.cielo.com.br/ecommerce-cielo/docs/configuração-do-merchant-identifier.md)
+    - [Integração com Apple Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/integração-com-apple-pay.md)
+    - [Criar transação com Apple Pay na API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/transacao-api-ecommerce-cielo.md)
+  - [Google Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/google-pay.md)
+    - [Integração com Google Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/integracao-com-google-pay.md)
+    - [Solicitação de dados de produção](https://docs.cielo.com.br/ecommerce-cielo/docs/solicitacao-de-dados-de-producao.md)
+    - [Criar transação com Google Pay na API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/transacao-google-pay.md)
+  - [Samsung Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/samsung-pay.md)
+- [Click to Pay](https://docs.cielo.com.br/ecommerce-cielo/docs/click-to-pay.md)
+- [QR Code](https://docs.cielo.com.br/ecommerce-cielo/docs/qr-code.md)
+- [Boleto](https://docs.cielo.com.br/ecommerce-cielo/docs/boleto.md)
+  - [Bradesco](https://docs.cielo.com.br/ecommerce-cielo/docs/boleto-bradesco.md)
+  - [Banco do Brasil](https://docs.cielo.com.br/ecommerce-cielo/docs/banco-do-brasil.md)
+- [Carnê](https://docs.cielo.com.br/ecommerce-cielo/docs/carnê.md)
+
+## Docs: FACILITADORES DE PAGAMENTO
+- [Facilitadores de pagamento: SDWO, subcredenciadores e marketplaces](https://docs.cielo.com.br/ecommerce-cielo/docs/facilitadores.md): Acompanhe as regras gerais para transações feitas por facilitadores de pagamento
+
+## Docs: Conversor de Moedas E-commerce
+- [Como funciona a conversão de moedas](https://docs.cielo.com.br/ecommerce-cielo/docs/conversor-moedas-ecommerce.md)
+  - [Fluxos para conversão não realizada](https://docs.cielo.com.br/ecommerce-cielo/docs/fluxos-alternativos-conversao.md)
+- [Captura e cancelamento de transações com conversão de moeda](https://docs.cielo.com.br/ecommerce-cielo/docs/conversor-moedas-captura-cancelamento.md)
+- [Como criar um pagamento com conversão de moedas e autenticação 3DS](https://docs.cielo.com.br/ecommerce-cielo/docs/conversor-moedas-3ds.md)
+
+## Docs: TOKENIZAÇÃO DE CARTÕES
+- [Tipos de tokenização oferecidos pela Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/tokenization-types.md)
+- Tokenização de cartões no cofre Cielo (Cartão Protegido)
+  - [O que é tokenização no Cartão Protegido?](https://docs.cielo.com.br/ecommerce-cielo/docs/cielo-tokenization.md): Armazene cartões de crédito de forma tokenizada e segura no cofre Cielo
+  - [Como funciona o armazenamento no Cartão Protegido?](https://docs.cielo.com.br/ecommerce-cielo/docs/cielo-vault.md)
+- Tokenização na bandeira (network token)
+  - [O que é a tokenização na bandeira?](https://docs.cielo.com.br/ecommerce-cielo/docs/network-token.md)
+  - [Mandate Visa para tokenização](https://docs.cielo.com.br/ecommerce-cielo/docs/mandate-visa-network-token.md): Confira as regras da bandeira Visa para a tokenização
+  - [Tokenização externa](https://docs.cielo.com.br/ecommerce-cielo/docs/external-token.md): Crie pagamentos usando tokens de bandeira existentes
+- [Silent Order Post](https://docs.cielo.com.br/ecommerce-cielo/docs/sop.md)
+  - [Integrando com o Silent Order Post](https://docs.cielo.com.br/ecommerce-cielo/docs/integrando-com-o-sop.md)
+  - [Integração entre os scripts de autenticação 3DS e Silent Order Post (SOP)](https://docs.cielo.com.br/ecommerce-cielo/docs/scritp-sop-com-3ds.md)
+
+## Docs: RECORRêNCIA
+- [Sobre a recorrência](https://docs.cielo.com.br/ecommerce-cielo/docs/recorrencia.md)
+  - [Recorrência própria](https://docs.cielo.com.br/ecommerce-cielo/docs/recorrência-própria.md)
+  - [Recorrência Programada Cielo](https://docs.cielo.com.br/ecommerce-cielo/docs/recorrência-programada-cielo.md)
+- [Criando recorrências](https://docs.cielo.com.br/ecommerce-cielo/docs/criando-recorrencia.md)
+- [Renova Fácil](https://docs.cielo.com.br/ecommerce-cielo/docs/renova-facil.md)
+- [Automatic Billing Updater (ABU)](https://docs.cielo.com.br/ecommerce-cielo/docs/automatic-billing-updater-abu.md)
+- [Identificadores de bandeira](https://docs.cielo.com.br/ecommerce-cielo/docs/identificadores-de-bandeira.md)
+
+## Docs: RETENTATIVA
+- [Retentativas](https://docs.cielo.com.br/ecommerce-cielo/docs/retentativas.md)
+- [Merchant Advice Code (MAC) – Mastercard](https://docs.cielo.com.br/ecommerce-cielo/docs/merchant-advice-code-mac-mastercard.md)
+
+## Docs: Análise de fraude
+- [Pagamentos com análise de fraude](https://docs.cielo.com.br/ecommerce-cielo/docs/analise-de-fraude.md)
+
+## Docs: POST DE NOTIFICAÇÃO
+- [Post de Notificação](https://docs.cielo.com.br/ecommerce-cielo/docs/webhook.md)
+
+## Referência da API: ARQUITETURA DA INTEGRAÇÃO
+- [Ambientes e arquitetura da API](https://docs.cielo.com.br/ecommerce-cielo/reference/sobre-a-api.md)
+- [Lista de recursos](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-recursos.md)
+- [Autenticação e credenciais](https://docs.cielo.com.br/ecommerce-cielo/reference/gerenciamento-de-credenciais.md): Saiba mais sobre as chaves de autenticação na API E-commerce, 3DS e Silent Order Post
+  - [Revogar e criar credenciais no site Cielo](https://docs.cielo.com.br/ecommerce-cielo/reference/revogar-e-criar-credenciais-no-site-cielo.md): Obtenha as credenciais para a API E-commerce Cielo (transacional e consultas).
+
+## Referência da API: CÓDIGOS DA API E-COMMERCE
+- [Códigos retornados pela API E‑commerce (HTTP, status e códigos de negócio)](https://docs.cielo.com.br/ecommerce-cielo/reference/introapi-codes-status-http.md)
+  - [Códigos HTTP](https://docs.cielo.com.br/ecommerce-cielo/reference/http-status.md)
+  - [Status da transação](https://docs.cielo.com.br/ecommerce-cielo/reference/payment-status.md)
+  - [Códigos de retorno de negócio da API (Return, Provider e Reason)](https://docs.cielo.com.br/ecommerce-cielo/reference/api-codes.md)
+  - [Erros técnicos da API (Code e Message)](https://docs.cielo.com.br/ecommerce-cielo/reference/api-errors-code-message.md): Os erros `Code` e `Message` retornam quando há um erro HTTP 400
+  - [Programa de Retentativa das Bandeiras](https://docs.cielo.com.br/ecommerce-cielo/reference/retentativa-bandeira.md)
+  - Códigos de retorno e status específicos
+    - [Códigos de retorno de cancelamento](https://docs.cielo.com.br/ecommerce-cielo/reference/codigos-retorno-cancelamento.md)
+    - [Códigos de retorno de captura ](https://docs.cielo.com.br/ecommerce-cielo/reference/códigos-retorno-captura.md)
+    - [Códigos de retorno Zero Auth](https://docs.cielo.com.br/ecommerce-cielo/reference/codigos-de-retorno-zero-auth.md)
+    - [Códigos de retorno Consulta BIN](https://docs.cielo.com.br/ecommerce-cielo/reference/codigos-de-retorno-consulta-bin.md)
+    - [Lista de status do Antifraude](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-do-antifraude.md): Possíveis status da análise de fraude
+    - [Lista de status da recorrência de cartão de crédito](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-status-recorrencia.md): Possíveis status de recorrência
+
+## Referência da API: Testando a API em Sandbox
+- [Como testar a API em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/como-usar-o-sandbox.md)
+  - [Zero Auth em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/zero-auth-em-sandbox.md)
+  - [Consulta BIN em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-bin-sandbox.md)
+  - [Cartão de crédito em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/credito-sandbox.md)
+  - [Cartão de débito em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/debito-sandbox.md)
+  - [Outros meios de pagamento em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/meios-de-pagamento-sandbox.md)
+  - [Renova Fácil em sandbox](https://docs.cielo.com.br/ecommerce-cielo/reference/renova-facil-sandbox.md)
+- [Postman](https://docs.cielo.com.br/ecommerce-cielo/reference/postman.md)
+  - [Download e cadastro](https://docs.cielo.com.br/ecommerce-cielo/reference/download-cadastro.md)
+  - [Explicando Componentes do Postman](https://docs.cielo.com.br/ecommerce-cielo/reference/explicando-componentes-postman.md)
+  - [Ambientes e coleções](https://docs.cielo.com.br/ecommerce-cielo/reference/ambientes-colecoes-cielo.md)
+  - [Collections e Environments Cielo](https://docs.cielo.com.br/ecommerce-cielo/reference/collections-e-environments-cielo.md)
+  - [Realizando uma requisição](https://docs.cielo.com.br/ecommerce-cielo/reference/realizando-requisição.md)
+
+## Referência da API: Zero Auth
+- [Validar cartão com o Zero Auth](https://docs.cielo.com.br/ecommerce-cielo/reference/validar-cartao.md): Simula uma autorização para verificar se o cartão está válido no momento.
+- [Validar cartão tokenizado com Cartão Protegido](https://docs.cielo.com.br/ecommerce-cielo/reference/validar-cartao-tokenizado.md): Valida um cartão tokenizado no Zero Auth
+- [Validar cartão de e-wallet](https://docs.cielo.com.br/ecommerce-cielo/reference/validar-cartao-e-wallet.md): Valida os dados de um cartão armazenado em e-wallet
+
+## Referência da API: Consulta BIN
+- [Consultar BIN do cartão](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-bin-cartao.md): Consulta e retorna informações do cartão.
+
+## Referência da API: velocity
+- [Prevenir fraudes com o Velocity](https://docs.cielo.com.br/ecommerce-cielo/reference/velocity-api.md)
+
+## Referência da API: Cartão de crédito
+- [Criar pagamento com cartão de crédito](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-pagamento-credito.md): Cria solicitação de autorização para transação de cartão de crédito.
+  - [Visa Intelligent Data Exchange (IDX)](https://docs.cielo.com.br/ecommerce-cielo/reference/visa-intelligent-data-exchange-idx.md)
+- [Capturar transação de crédito após a autorização](https://docs.cielo.com.br/ecommerce-cielo/reference/capturar-apos-autorizacao.md): Realiza a captura parcial ou total de uma transação de cartão de crédito.
+- [Cancelar transação de crédito via PaymentId](https://docs.cielo.com.br/ecommerce-cielo/reference/cancelamento-paymentid.md): Cancela o valor total ou parcial de uma transação de crédito informando o `PaymentId`
+- [Cancelar transação de crédito via MerchantOrderId](https://docs.cielo.com.br/ecommerce-cielo/reference/cancelamento-merchantorderid.md): Cancela o valor total ou parcial de uma transação de crédito informando o MerchantOrderId
+- Card on file
+  - [Primeiro uso do cartão armazenado](https://docs.cielo.com.br/ecommerce-cielo/reference/primeiro-uso-do-cartão-armazenado.md)
+  - Cartão já armazenado
+    - [Recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/recorrência.md)
+- [Lista de status da transação para cartão de crédito](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-da-transação-para-cartão-de-crédito.md): Possíveis status de uma transação
+
+## Referência da API: Cartão de débito
+- [Criar pagamento com cartão de débito](https://docs.cielo.com.br/ecommerce-cielo/reference/debito.md): Cria transação com o meio de pagamento cartão de débito.
+- [Cancelar transação de débito via PaymentId](https://docs.cielo.com.br/ecommerce-cielo/reference/cancelamento-débito-paymentid.md)
+- [Cancelar transação de débito via MerchantOrderId](https://docs.cielo.com.br/ecommerce-cielo/reference/cancelamento-debito-merchantorderid.md)
+- Card on file
+  - [Primeiro uso do cartão armazenado](https://docs.cielo.com.br/ecommerce-cielo/reference/primeiro-uso-do-cartão-armazenado-1.md)
+- [Lista de status da transação para cartão de débito](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-da-transação-para-cartão-de-débito.md): Possíveis status de uma transação
+
+## Referência da API: Pix
+- [Criar pagamento com QRCode Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/qrcode-pix.md): Cria transação com o meio de pagamento Pix.
+- [Solicitar uma devolução Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/devoluçao-pix-api.md): Solicita a devolução de uma transação Pix.
+- [Códigos e mensagens de erro Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/codigos-erro-pix.md)
+- [Lista de status da transação Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-da-transação-pix.md): Possíveis status de uma transação
+
+## Referência da API: PIX - NOVA INTEGRAÇÃO
+- [Atualizações nos campos Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/de-para-pix.md): Válido para a integração com o provedor "Cielo2".
+- [Criar pagamento com QR Code Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/cielo2-gerar-qr-code-pix.md): Válido para a integração com o provedor "Cielo2".
+- [Remover um QR Code Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/cielo2-remover-um-qr-code-pix.md): Válido para a integração com o provider "Cielo2".
+- [Consultar transação de Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-cielo2.md): Válido para a integração com o provedor "Cielo2".
+- [Solicitar devolução de transação Pix](https://docs.cielo.com.br/ecommerce-cielo/reference/devolucao-cielo2.md)
+
+## Referência da API: Boleto
+- [Criar pagamento com boleto](https://docs.cielo.com.br/ecommerce-cielo/reference/boleto-api.md): Cria transação de boleto.
+- [Lista de status da transação boleto](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-da-transação-boleto.md): Possíveis status de uma transação
+
+## Referência da API: Voucher
+- [Criar pagamento com voucher](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-pagamento-com-voucher.md): Cria transação com o meio de pagamento voucher Alelo
+
+## Referência da API: Cartão multibenefícios
+- Cartão multibenefícios
+  - [Criar pagamento com cartão multibenefícios](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-pagamento-multibeneficios.md): Cria solicitação de autorização para transação de cartão multibenefícios.
+
+## Referência da API: Click to Pay
+- [Criar pagamento com Click to Pay](https://docs.cielo.com.br/ecommerce-cielo/reference/pagamento-click-to-pay.md)
+
+## Referência da API: E-wallets
+- [Criar pagamento com e-wallet com cartão criptografado](https://docs.cielo.com.br/ecommerce-cielo/reference/e-wallet-criptografado.md): Cria uma transação de e-wallet usando um cartão criptografado
+- [Criar pagamento com e-wallet com cartão descriptografado](https://docs.cielo.com.br/ecommerce-cielo/reference/e-wallet-descriptografado.md): Cria uma transação de e-wallet usando um cartão descriptografado
+- [Lista de status da transação e-wallets](https://docs.cielo.com.br/ecommerce-cielo/reference/lista-de-status-da-transação-e-wallets.md): Possíveis status de uma transação
+
+## Referência da API: QRCode
+- [Gerar um QR Code via API](https://docs.cielo.com.br/ecommerce-cielo/reference/qr-code-api.md): Cria uma transação de QR Code
+
+## Referência da API: Carnê
+- [Criar transação de carnê](https://docs.cielo.com.br/ecommerce-cielo/reference/carne-api.md): Cria uma transação de carnê
+
+## Referência da API: Consultas
+- [Consultar por PaymentId](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-paymentid-api.md): Consulta uma transação informando o `PaymentId`
+- [Consultar por Tid](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-tid-api.md): Consulta uma transação informando o `Tid` (Transaction Id)
+- [Consultar por MerchantOrderId](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-merchantorderid-api.md): Consulta uma transação informando o MerchantOrderId
+- [Consultar recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/consulta-recorrencia-api.md): Consulta uma transação recorrente informando o `RecurrentPaymentId`
+
+## Referência da API: Conversor de moedas e-commerce
+- [Criar pagamento com conversão de moeda](https://docs.cielo.com.br/ecommerce-cielo/reference/conversor-moedas-api.md): Cria um pagamento com cartão de crédito estrangeiro solicitando a conversão para a moeda local do comprador
+- [Confirmar a conversão de moeda](https://docs.cielo.com.br/ecommerce-cielo/reference/confirmar-conversao.md): Confirma a conversão do pagamento em reais para a moeda do cartão estrangeiro
+- [Moedas disponíveis para conversão](https://docs.cielo.com.br/ecommerce-cielo/reference/conversor-moedas-disponiveis.md)
+
+## Referência da API: Tokenização de cartões
+- [Criar cartão tokenizado antes da autorização](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-cardtoken.md): Cria um cartão de crédito tokenizado
+- [Criar pagamento com cartão tokenizado](https://docs.cielo.com.br/ecommerce-cielo/reference/cartao-tokenizado-api.md): Cria uma transação usando um cartão tokenizado anteriormente
+- [Criar cartão tokenizado durante a autorização](https://docs.cielo.com.br/ecommerce-cielo/reference/cardtoken-autorizacao.md): Solicita a tokenização de um cartão no momento da criação do pagamento de crédito.
+- [Criar pagamento com token da bandeira via integração externa](https://docs.cielo.com.br/ecommerce-cielo/reference/token-bandeira-externo.md): Cria pagamento usando token de bandeira criado fora da Cielo
+
+## Referência da API: Recorrência
+- [Criando pagamentos recorrentes](https://docs.cielo.com.br/ecommerce-cielo/reference/criando-transações-recorrentes.md)
+- [Criar pagamento recorrente](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-recorrencia.md): Cria um pagamento recorrente de cartão de crédito na modalidade Recorrência Programada.
+- [Agendar recorrência programada](https://docs.cielo.com.br/ecommerce-cielo/reference/agendar-recorrência.md)
+- [Criar pagamento recorrente com cartão tokenizado](https://docs.cielo.com.br/ecommerce-cielo/reference/recorrencia-cardtoken.md)
+- [Criar recorrência própria](https://docs.cielo.com.br/ecommerce-cielo/reference/criar-recorrência-própria.md)
+- [Alterar dados da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-recorrencia.md)
+  - [Alterar dados do comprador](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-dados-comprador.md): Altera informações pessoais do comprador
+  - [Alterar dados do pagamento da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-pagamento-recorrencia.md): Altera informações de pagamento do pedido recorrente
+  - [Alterar valor da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-valor-recorrencia.md): Altera o valor do pedido recorrente
+  - [Agendar atualização de valor na recorrência programada](https://docs.cielo.com.br/ecommerce-cielo/reference/agendar-ajuste-valor-recorrencia-programada.md)
+    - [Agendar atualização de valor na recorrência programada](https://docs.cielo.com.br/ecommerce-cielo/reference/agendar-ajuste-valor-programada.md): Inser os dados de atualização de valor para uma determinada recorrência.
+    - [Alterar atualização de valor de uma recorrência programada](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-ajuste-valor-recorrencia-programada.md): Altera atualização de valor para uma determinada recorrência.
+    - [Cancelar atualização de valor de recorrência programada](https://docs.cielo.com.br/ecommerce-cielo/reference/deletar-ajuste-valor-recorrencia-programada.md): Cancela atualização de valor programado para uma determinada recorrência.
+  - [Alterar dia da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-dia-recorrencia.md): Altera o dia de cobrança de um pedido recorrente
+  - [Alterar data do próximo pagamento](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-data-pagamento.md): Altera a data do próximo pagamento em um pedido recorrente
+  - [Alterar intervalo da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/alterar-intervalo-recorrencia.md): Altera o intervalo de um pedido recorrente
+  - [Alterar data final da recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/data-final-recorrência.md): Altera a data final de um pedido recorrente
+- [Desativar recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/desabilitar-recorrencia.md): Desativa um pedido recorrente
+- [Reativar recorrência](https://docs.cielo.com.br/ecommerce-cielo/reference/reativar-recorrencia.md): Reativa um pedido recorrente
+
+## Referência da API: Pagamentos com Análise de Fraude - ClearSale
+- [Criar pagamento com análise de fraude ClearSale](https://docs.cielo.com.br/ecommerce-cielo/reference/af-clearsale.md): Cria um pagamento de cartão de crédito e envia a transação para o Antifraude (solução Braspag) no provedor ClearSale
+
+## Referência da API: Pagamentos com Análise de Fraude - CyberSource
+- [Criar pagamento com análise fraude Cybersource](https://docs.cielo.com.br/ecommerce-cielo/reference/af-cybersource.md): Cria um pagamento de cartão de crédito e envia a transação para o Antifraude (solução Braspag) no provedor Cybersource
+
+## Referência da API: Facilitadores de pagamento - SDWO, subcredenciadores e marketplaces
+- [Subcredenciadores e marketplaces](https://docs.cielo.com.br/ecommerce-cielo/reference/subcredenciadores-e-marketplaces.md)
+- [SDWO](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo.md)
+  - [SDWO de arranjo de compra](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-de-arranjo-de-compra.md): Compra de bem ou serviço com cartão vinculado a uma carteira digital (SDWO)
+  - [SDWO de arranjo de transferência de fundos](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-transferencia-fundos.md)
+    - [Transferência para o mesmo portador (Me2Me)](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-me2me.md): Transferência de fundos para o mesmo portador dentro da carteira digital
+    - [Transferência para outro portador (P2P)](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-p2p.md): Transferência de fundos para outro portador dentro da carteira digital
+    - [Transferência para outro arranjo](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-outro-arranjo.md): Transferência de fundos para outro arranjo, como outra carteira ou pagar via Pix usando o cartão
+    - [Pagamento de conta identificada](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-pagamento-de-conta-identificada.md): Pagamento de boleto identificado usando a carteira digital
+    - [Pagamento de conta não identificada](https://docs.cielo.com.br/ecommerce-cielo/reference/sdwo-pagamento-conta-nao-identificada.md): Pagamento de boleto não identificado usando a carteira digital
+    - [Transferência para carteira de pedágio](https://docs.cielo.com.br/ecommerce-cielo/reference/pedagio-sdwo.md): Transferência de saldo para uma carteira de pedágio usando o cartão de crédito ou débito
+- [Programa de performance de MCC cadastros de pessoa física](https://docs.cielo.com.br/ecommerce-cielo/reference/mccs-via-facilitadores.md)
+
+## Referência da API: Implementações específicas
+- [Quasi Cash](https://docs.cielo.com.br/ecommerce-cielo/reference/quasi-cash.md)
+
+## Novidades
+- [TLID obrigatório para transações MIT Mastercard](https://docs.cielo.com.br/ecommerce-cielo/changelog/tlid-obrigatorio.md)
+- [IssuerTransactionId obrigatório para Elo](https://docs.cielo.com.br/ecommerce-cielo/changelog/issuertransactionid-elo.md)
+- [Julho 2026](https://docs.cielo.com.br/ecommerce-cielo/changelog/julho-2026.md)
+- [Junho de 2026](https://docs.cielo.com.br/ecommerce-cielo/changelog/junho-2026.md)
+- [Atualização do script 3DS](https://docs.cielo.com.br/ecommerce-cielo/changelog/atualização-do-script-3ds.md)
+- [Maio de 2026](https://docs.cielo.com.br/ecommerce-cielo/changelog/maio-2026.md)
+- [Abril de 2026](https://docs.cielo.com.br/ecommerce-cielo/changelog/abril-2026.md)
+- [[MAR] Atualizações na documentação API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/changelog/marco-2026.md)
+- [Atualização na documentação de retornos da API](https://docs.cielo.com.br/ecommerce-cielo/changelog/atualização-na-documentação-de-retornos-da-api.md)
+- [[FEV] Atualizações na documentação API E-commerce Cielo](https://docs.cielo.com.br/ecommerce-cielo/changelog/fevereiro-2026.md)

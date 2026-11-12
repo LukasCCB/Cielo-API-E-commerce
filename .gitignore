@@ -1,0 +1,11 @@
+# Índice local do graft (ferramenta de indexação de código) — não faz parte da doc
+graft/
+
+# Temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Artefato do graft
+.ignore
